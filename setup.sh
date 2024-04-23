@@ -1,0 +1,2 @@
+installPackages.sh
+installNerdFonts.sh

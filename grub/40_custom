@@ -1,0 +1,5 @@
+menuentry "Windows 11" --class windows --class os {
+   insmod ntfs
+   search --no-floppy --set=root --fs-uuid 5CA7-745A 
+chainloader /EFI/Microsoft/Boot/bootmgfw.efi  
+}
