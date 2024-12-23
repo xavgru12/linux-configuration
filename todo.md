@@ -17,6 +17,6 @@ Another way is to pipe it to tee -a file with no redirects like so:
 
 echo "This is some text" | tee -a file
 
-check how big a folder ischeck how big a folder is::
+check how big a folder is:
 du -hs /path/to/directory
 

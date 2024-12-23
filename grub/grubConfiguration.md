@@ -20,3 +20,6 @@ in /etc/default/grub, change these two lines for grub to appear during startup, 
 #GRUB_TIMEOUT_STYLE=hidden
 GRUB_TIMEOUT=20
 
+in order for the changes to take effect, execute this and then reboot:
+sudo update-grub
+
