@@ -16,4 +16,7 @@ sudo apt-get install -y texlive-fonts-extra
 sudo apt-get install -y texlive-latex-extra
 #gnome themes: gogh: https://github.com/Gogh-Co/Gogh copy and paste inside nvim
 sudo apt-get install -y xclip
+sudo apt install -y texlive-lang-german
+sudo apt-get install -y texlive-bibtex-extra biber
+sudo apt install sccache
 
