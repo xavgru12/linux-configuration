@@ -19,4 +19,5 @@ sudo apt-get install -y xclip
 sudo apt install -y texlive-lang-german
 sudo apt-get install -y texlive-bibtex-extra biber
 sudo apt install sccache
+sudo apt-get install xsel
 
