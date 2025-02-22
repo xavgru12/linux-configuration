@@ -1,3 +1,5 @@
+sudo apt-get update
+sudo apt-get upgrade -y
 sudo apt-get install -y curl git python3-pip python-is-python3 pipx neovim 
 sudo apt-get install -y dconf-cli uuid-runtime  
 sudo apt-get install -y postgresql 
