@@ -19,7 +19,7 @@ sudo apt-get install -y texlive-latex-extra
 sudo apt-get install -y xclip
 sudo apt install -y texlive-lang-german
 sudo apt-get install -y texlive-bibtex-extra biber
-sudo apt install sccache
-sudo apt-get install xsel
-sudo apt-get install pandoc
+sudo apt install -y sccache
+sudo apt-get install -y xsel
+sudo apt-get install -y pandoc
 
