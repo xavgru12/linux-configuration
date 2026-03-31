@@ -10,8 +10,8 @@ sudo nano /etc/docker/daemon.json with this content:
   "default-ulimits": {
     "nofile": {
       "Name": "nofile",
-      "Hard": 65535,
-      "Soft": 65535
+      "Hard": 1048576,
+      "Soft": 1048576
     }
   }
 }
